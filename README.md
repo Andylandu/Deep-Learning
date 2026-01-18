@@ -4,4 +4,4 @@ It covers:
 * Keras/TensorFlow
 * Computer Vision
 * Deep Learning
-* And many more
+* And many more...
